@@ -1,0 +1,6 @@
+c:\users\администратор\documents\visual studio 2013\Projects\nscourse_server\nscourse_server\bin\Debug\nscourse_server.exe.config
+c:\users\администратор\documents\visual studio 2013\Projects\nscourse_server\nscourse_server\bin\Debug\nscourse_server.exe
+c:\users\администратор\documents\visual studio 2013\Projects\nscourse_server\nscourse_server\bin\Debug\nscourse_server.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\nscourse_server\nscourse_server\obj\Debug\nscourse_server.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2013\Projects\nscourse_server\nscourse_server\obj\Debug\nscourse_server.exe
+c:\users\администратор\documents\visual studio 2013\Projects\nscourse_server\nscourse_server\obj\Debug\nscourse_server.pdb
